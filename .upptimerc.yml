@@ -12,7 +12,7 @@ sites:
   - name: RedHigea
     url: www.redhigea.com
   - name: CDHM
-    url: www.centrodediagnosticohigea.com
+    url: www.centrodiagnosticohigea.com
   - name: Itecnologica
     url: www.itecnologica.com
 
